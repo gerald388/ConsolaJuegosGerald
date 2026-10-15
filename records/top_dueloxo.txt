@@ -1,0 +1,4 @@
+Sofia|33
+Andres|21
+Luis|15
+Gerald|3

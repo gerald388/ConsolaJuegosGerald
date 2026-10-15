@@ -1,0 +1,4 @@
+Daniel|160
+Pablo|160
+Maria|140
+Carlos|120

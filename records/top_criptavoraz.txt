@@ -1,0 +1,4 @@
+Gerald|17
+Valeria|18
+Diego|24
+Camila|31
